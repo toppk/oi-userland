@@ -1118,7 +1118,7 @@ system/library/gfortran-9-runtime@9.4.0,5.11-2020.0.1.1
 system/library/gobjc-9-runtime@9.4.0,5.11-2020.0.1.1
 system/library/libvirt@0.5.11,5.11-2015.0.2.0
 system/library/math/header-math@0.5.11,5.11-2022.0.1.0 system/library/math
-system/library/processor@0.5.11,5.11-2022.0.1.0
+system/library/processor@0.5.11,5.11-2022.0.1.0 noincorporate
 system/library/python/libbe-27@0.5.11,5.11-2022.0.1.0 noincorporate
 system/library/python/libbe-35@0.5.11,5.11-2022.0.1.0
 system/library/python/solaris-27@0.5.11,5.11-2022.0.1.0 noincorporate
